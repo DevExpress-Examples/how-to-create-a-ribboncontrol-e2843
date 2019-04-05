@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/RibbonControl_Ex/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/RibbonControl_Ex/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/RibbonControl_Ex/MainPage.xaml) (VB: [MainPage.xaml](./VB/RibbonControl_Ex/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/RibbonControl_Ex/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RibbonControl_Ex/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to create a RibbonControl
